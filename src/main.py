@@ -14,7 +14,7 @@ from vertexai.preview.generative_models import (
 from PIL import Image
 import concurrent.futures
 
-app_formal_name = "Imagen 2 Moodboard"
+app_formal_name = "Imagen 3 Moodboard"
 
 # Start the app in wide-mode
 st.set_page_config(
